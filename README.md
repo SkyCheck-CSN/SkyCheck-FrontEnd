@@ -43,25 +43,25 @@ If you want to generate the optimized production version, use ⁠ npm run buil
 
 The project is organized as follows:
 
-The SkyCheck-Frontend/ directory contains the main folders.
+The `SkyCheck-Frontend/` directory contains the main folders.
 
 Inside src/ you’ll find the resources and components of the frontend:
-•⁠  ⁠assets/: icons and images used in the interface.
-•⁠  ⁠components/: reusable components, such as Probability or WeatherCard.
-•⁠  ⁠pages/: main views of the application.
-•⁠  ⁠styles/: global style files.
-•⁠  ⁠App.tsx: main entry point.
-•⁠  ⁠main.tsx: file where React is rendered.
+- `assets/`: icons and images used in the interface.
+- `components/`: reusable components, such as Probability or WeatherCard.
+- `pages/`: main views of the application.
+- ⁠`styles/`: global style files.
+- `App.tsx`: main entry point.
+- ⁠`main.tsx`: file where React is rendered.
 
 It also includes configuration files such as package.json, tsconfig.json, and README.md.
 
 ## Available Scripts
 
 The project includes the following commands:
-•⁠  ⁠npm run dev: starts the local development server.
-•⁠  ⁠npm run build: generates the optimized production version.
-•⁠  ⁠npm run preview: allows you to preview the production build locally.
-•⁠  ⁠npm run lint: analyzes the code for errors or bad practices.
+- `npm run dev`: starts the local development server.
+- ⁠`npm run build`: generates the optimized production version.
+- ⁠`npm run preview`: allows you to preview the production build locally.
+- ⁠`npm run lint`: analyzes the code for errors or bad practices.
 
 ## Licence
 
