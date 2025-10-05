@@ -45,7 +45,7 @@ The project is organized as follows:
 
 The `SkyCheck-Frontend/` directory contains the main folders.
 
-Inside src/ you’ll find the resources and components of the frontend:
+Inside `src/` you’ll find the resources and components of the frontend:
 - `assets/`: icons and images used in the interface.
 - `components/`: reusable components, such as Probability or WeatherCard.
 - `pages/`: main views of the application.
