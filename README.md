@@ -25,11 +25,11 @@ Its goal is to offer a clear and visually appealing experience for the end user.
 
 ## Installation and Execution
 
-1.⁠ ⁠Clone the repository  
+1. Clone the repository  
    ```bash
    git clone https://github.com/libiaf/SkyCheck-Frontend.git
    cd SkyCheck-Frontend
-
+   
 ## Installation and Usage
 
 To install the dependencies, run the command ⁠`npm install`⁠ in the terminal of the root directory of this project.  
